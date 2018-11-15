@@ -5,5 +5,12 @@ gjhjghj
 ghjghjgj
 ggkj
 
+<<<<<<< HEAD
 test
 
+=======
+added lines
+>>>>>>> 6e7eafec825cfb6727d7df7c7a45c880668cf4bd
+
+
+test test 
